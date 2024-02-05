@@ -1,0 +1,1 @@
+print("Nikita Borovik, IPZ-8 AI-2024")
